@@ -26,3 +26,7 @@
 | Left | Ground |
 | Center | LCD 3rd pin (V0 - contrast)|
 | Right | 5v |
+
+**We'll display number of times our led blinked on LCD 16x2**
+
+**Now all we have to do is wire things up and test our diode**
