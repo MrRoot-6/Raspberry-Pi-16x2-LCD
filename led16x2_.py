@@ -11,7 +11,6 @@ global PIN_RS
 global PIN_RW
 global PIN_E
 global DATA_PINS
-global ADDITIONAL_SYMBOL
 
 # DISPLAY specify string to displayt on LED
 # TIME specify time of displaing. Set 0 to leave displayed
